@@ -1,3 +1,4 @@
+![image](https://travis-ci.com/taorusb/ConsoleCRUDusesHibernate.svg?branch=master)
 ### Enchanged Console CRUD application v 3.0
 
 #### Used technologies:
